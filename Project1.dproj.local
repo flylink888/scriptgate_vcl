@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/02/10 09:29:35.000.210,=C:\Users\Satic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/17 20:43:55.000.460,=C:\Users\Satic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/17 20:44:11.000.704,C:\Users\Satic\Desktop\新建文件夹\Unit1.dfm=C:\Users\Satic\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/03/17 20:44:11.000.704,C:\Users\Satic\Desktop\新建文件夹\Unit1.pas=C:\Users\Satic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/17 20:44:12.000.675,C:\Users\Satic\Desktop\新建文件夹\Project1.dproj=C:\Users\Satic\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/03/17 20:44:58.000.982,=C:\Users\Satic\Desktop\新建文件夹\ScriptGate\SG.ScriptGate.pas</Transaction>
+    <Transaction>2018/03/17 20:45:00.000.055,=C:\Users\Satic\Desktop\新建文件夹\ScriptGate\SG.ScriptGate.Win.pas</Transaction>
+    <Transaction>2018/03/17 20:45:00.000.924,=C:\Users\Satic\Desktop\新建文件夹\ScriptGate\SG.WebBrowserHelper.pas</Transaction>
+    <Transaction>2018/03/17 20:45:00.000.145,=C:\Users\Satic\Desktop\新建文件夹\ScriptGate\SG.ScriptGateLog.pas</Transaction>
+  </Transactions>
+</BorlandProject>
